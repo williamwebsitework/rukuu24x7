@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:26:05	22866/22866	---MCZ	200	added ('OK')	text/html	etag:W/%22735cb4a371868e18f4e9ced2e1754ea9%22	https://roku-24x7-customer-service.vercel.app/	C:/My%20Web%20Sites/rokufiles/roku-24x7-customer-service.vercel.app/index.html	(from )
+21:26:05	1490/1490	---MCZ	404	error ('Not%20Found')	text/html	date:Mon,%2023%20Jun%202025%2015:56:05%20GMT	https://roku-24x7-customer-service.vercel.app/robots.txt		(from )
